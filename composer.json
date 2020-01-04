@@ -17,6 +17,7 @@
         "drupal/config_direct_save": "^1.0",
         "drupal/config_installer": "^1.0",
         "drupal/console": "^1",
+        "drupal/consumer_image_styles": "^3.0",
         "drupal/core": "^8.6.15",
         "drush-ops/behat-drush-endpoint": "^9.3",
         "drush/drush": "~8.3",
