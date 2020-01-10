@@ -17,12 +17,13 @@
         "drupal/config_direct_save": "^1.0",
         "drupal/config_installer": "^1.0",
         "drupal/console": "^1",
-        "drupal/core": "^8.6.15",
+        "drupal/core": "^8.8.1",
+        "drupal/jsonapi_extras": "3.13",
+        "drupal/jsonapi_image_styles": "^1.0@beta",
         "drush-ops/behat-drush-endpoint": "^9.3",
         "drush/drush": "~8.3",
         "pantheon-systems/quicksilver-pushback": "^2",
         "rvtraveller/qs-composer-installer": "^1.1",
-        "webflo/drupal-core-strict": "^8.6.15",
         "zaporylie/composer-drupal-optimizations": "^1.0"
     },
     "require-dev": {
