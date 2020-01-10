@@ -1,4 +1,4 @@
-uuid: 6983ddfe-1228-4241-a0d2-cd13ef0768f1
+uuid: b9ea8dd6-6d35-4985-b57d-05a46d38c8a3
 langcode: en
 status: true
 dependencies: {  }
@@ -12,5 +12,7 @@ permissions:
   - 'access comments'
   - 'access content'
   - 'access site-wide contact form'
+  - 'access taxonomy overview'
+  - 'bypass node access'
   - 'search content'
   - 'use text format restricted_html'

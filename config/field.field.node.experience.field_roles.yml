@@ -1,0 +1,29 @@
+uuid: 9522a0ab-f58b-40f8-8038-9e12741a2336
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_roles
+    - node.type.experience
+    - taxonomy.vocabulary.roles
+id: node.experience.field_roles
+field_name: field_roles
+entity_type: node
+bundle: experience
+label: Roles
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      roles: roles
+    sort:
+      field: name
+      direction: asc
+    auto_create: true
+    auto_create_bundle: ''
+field_type: entity_reference

@@ -1,7 +1,7 @@
-uuid: f13501bb-77c5-4400-b413-4f463affde46
-name: dasjo.at
-mail: josef.dabernig@dasjo.at
-slogan: 'Everything is possible'
+uuid: 0d256839-888e-47ec-82af-0368eadcd79f
+name: 'My Drupal 8 Site'
+mail: admin@example.com
+slogan: ''
 page:
   403: ''
   404: ''
