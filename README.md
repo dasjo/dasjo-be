@@ -9,6 +9,8 @@ Requirements
 Setup
 
 * git clone git@github.com:dasjo/dasjo-be.git
+* fin drush bash
+* terminus aliases
 * cd das-be
 * mkdir database_dumps
 * composer install
