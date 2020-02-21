@@ -19,6 +19,10 @@ Setup
 * fin init
 * http://dasjo-be.docksal should be available now
 
+Usage
+
+* fin up
+
 Update database from pantheon dev
 
 * fin downloaddb
