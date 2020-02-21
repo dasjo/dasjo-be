@@ -1,12 +1,12 @@
 # dasjo-be
 
-Requirements
+## Requirements
 
 * git - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 * docksal - https://docksal.io/installation
 * pantheon terminus - https://pantheon.io/docs/terminus/install
 
-Setup
+## Setup
 
 * git clone git@github.com:dasjo/dasjo-be.git
 * fin drush bash
@@ -19,11 +19,11 @@ Setup
 * fin init
 * http://dasjo-be.docksal should be available now
 
-Usage
+## Usage
 
 * fin up
 
-Update database from pantheon dev
+## Update database from pantheon dev
 
 * fin downloaddb
 
